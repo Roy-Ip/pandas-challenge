@@ -1,0 +1,27 @@
+Written Report & Analysis
+
+With the dataset provided, I have conducted the following analysis:
+	- Local Government Area Summary
+	- School Summary
+	- Highest-Performing Schools (by % Overall Passing)
+	- Lowest-Performing Schools (by % Overall Passing)
+	- Maths Scores by Year
+	- Reading Scores by Year
+	- Scores by School Spending
+	- Scores by School Size
+	- Scores by School Type
+
+In the Local Government Area level, there are 15 schools in total in the dataset, with a total of 39,170 students. The percentage of student who passed maths and reading (% overall passing) is 72.81%.
+
+When it is narrowed down to the school level, Griffin High School, Cabrera High School and Bailey High School are the top three performing schools by % overall passing. The percentage of student who passed maths and reading are 81.34%, 80.79% and 80.08% respectively. On the other hand, Hernandez High School, Huang High School and Johnson High School are the three worst-performing schools by & overall passing. The percentage of student who passed maths and reading are 66.36%, 66.71% and 67.19% respectively.
+
+In relation to the analysis on "Maths Scores by Year" and "Reading Scores by Year", it does not seem to have a clear trend or pattern throughout the four years (Year 9, Year 10, Year 11 and Year 12) in both Maths Scores and Reading Scores. Most of the schools have a stable performance and less fluctuation in scores. In order to draw a more valid and clear conclusion, more calculation and analysis will need to be conducted. 
+
+With the analysis on Scores by School Spending, the schools with spending range per student ($585-$630) have the highest performance in every single item (ie. average maths score, average reading score, percentage of students who passed maths, percentage of students who passed reading, percentage of students who passed maths and reading). More specifically with 79.88% overall passing. In contrast, the schools with the highest spending range per student ($645-680) has the worst performance in every single item. More specifically with only 66.76% overall passing. Therefore, there is no valid conclusion showing that the higher the spending will result in a better performance.
+
+With the analysis on Scores by School Size, the schools with small school size (with less than 1,000 student) have the highest performance in every single item. More specifically with 79.07% overall passing. While the schools with large school size (with number of students between 2000 and 5000) have the worst performance in every single item. More specifically with only 70.29% overall passing. It may suggest that schools with smaller size can provide a better learning environment for the students. For example, there may be a lower teacher-student ratio, which means one teacher will be supervising less students when compared to a large size school. Also, the resources can be shared amongst less students, which means students can enjoy or obtain the resources easier as there are fewer students in small size schools when compared to large size schools. 
+
+With the analysis on Scores by School Type, independent schools have a better performance than government schools in every single item. When comparing the % overall passing, independent schools are 76.97& while government schools are 70.70%. It may suggest that independent schools have some factors that outperform government schools, such as better learning environment, better teachers, more tailored educational teaching and more resources etc. 
+
+
+
